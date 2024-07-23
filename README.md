@@ -1,5 +1,5 @@
 ## WHY ARE CERTAIN BASKETBALL TEAMS SUCCESSFUL!
-Luzhou Shen, Mackenzie Chen
+Luzhou Shen
 ## Objective and Method
 - Purpose: understand what contributes to the success of certain players or teams
 - Approach: utilize NBA play-by-play data to provide analytics
